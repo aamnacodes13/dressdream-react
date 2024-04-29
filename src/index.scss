@@ -1,0 +1,20 @@
+:root{
+  --color-pink: #f8dbd8;
+  --color-pink-dark: #c15b75;
+  --color-yellow: #ffffe0;
+  --color-blue: #00ccff;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto Condensed", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-tap-highlight-color: transparent;
+  background: var(--color-yellow);
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
